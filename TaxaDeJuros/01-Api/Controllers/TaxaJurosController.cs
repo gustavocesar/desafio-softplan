@@ -7,7 +7,7 @@ using Microsoft.Extensions.Logging;
 using TaxaDeJuros.Application.Services.Contracts;
 using TaxaDeJuros.Domain.Entities;
 
-namespace _01_Api.Controllers
+namespace TaxaDeJuros.Api.Controllers
 {
     [ApiController]
     [Route("taxaJuros")]
